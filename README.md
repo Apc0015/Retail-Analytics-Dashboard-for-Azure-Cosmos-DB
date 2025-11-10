@@ -4,6 +4,10 @@ A comprehensive retail analytics dashboard built with Streamlit and Azure Cosmos
 
 **Author**: Ayush Chhoker - U00363568
 
+## 🚀 Live Demo
+
+**[View Live Dashboard](https://retail-analytics-dashboard-for-azure-cosmos-db-gcugxkrxqiwnes8.streamlit.app/)**
+
 ## Features
 
 - **Product Analysis**: Track inventory, pricing, and product performance across categories
